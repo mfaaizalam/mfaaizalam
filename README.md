@@ -12,14 +12,14 @@ Full Stack Developer | Backend Engineer | AI & ML Enthusiast
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer with a strong focus on scalable backend development.
-- ⚡ Build fast, responsive, and modern web applications.
-- 🐍 Experienced in Python, FastAPI, JavaScript, Node.js, and Express.js.
-- 🤖 Passionate about Artificial Intelligence and Machine Learning.
-- 🧠 Built AI applications using **Retrieval-Augmented Generation (RAG)** and **AI Agents**.
-- 🗄️ Experienced with PostgreSQL, MongoDB, and Neon PostgreSQL.
-- 🌱 Currently exploring LLMs, Agentic AI, and Production Backend Systems.
-- 🎯 Looking for Backend, Full Stack, and AI Internship opportunities.
+- 💻 Full Stack Developer with a strong focus on Backend Development.
+- ⚡ Build fast, responsive, and scalable web applications.
+- 🐍 Backend development using Python, FastAPI, Node.js, and Express.js.
+- 🌐 Frontend development with React.js, HTML, CSS, Tailwind CSS, and JavaScript.
+- 🤖 AI enthusiast with hands-on experience building applications using Retrieval-Augmented Generation (RAG) and AI Agents.
+- 🗄️ Experienced with PostgreSQL, Neon PostgreSQL, MongoDB, and SQL database design.
+- 📚 Currently learning Large Language Models (LLMs), Advanced RAG Systems, AI Agents, and Production-ready AI Applications.
+- 🎯 Open to Full Stack, Backend, and AI Internship opportunities.
 
 ---
 
@@ -57,14 +57,6 @@ Full Stack Developer | Backend Engineer | AI & ML Enthusiast
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Neon](https://img.shields.io/badge/Neon_SQL-00E599?style=for-the-badge)
 
----
-
-## AI / Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ---
 
