@@ -31,7 +31,7 @@ I'm a Software Engineering student passionate about Backend Development and Arti
 
 ### 🗄️ Databases
 - PostgreSQL
-- SQLite
+- MongoDb
 
 ### 🤖 AI & Machine Learning
 - Scikit-learn
