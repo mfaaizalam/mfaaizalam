@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faaiz Alam</h1>
 
-<h3 align="center">Software Engineering Student | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full Stack Web Developer | AI Enthusiast</h3>
 
 ---
 
@@ -34,7 +34,6 @@ I'm a Software Engineering student passionate about Backend Development and Arti
 - MongoDb
 
 ### 🤖 AI & Machine Learning
-- Scikit-learn
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
 - Qdrant Vector Database
@@ -43,6 +42,7 @@ I'm a Software Engineering student passionate about Backend Development and Arti
 - HTML
 - CSS
 - JavaScript
+- React js
 
 ### 🛠️ Tools & Technologies
 - Git
