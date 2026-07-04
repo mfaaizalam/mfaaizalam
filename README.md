@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Faaiz Alam</h1>
 
-<!--
-**mfaaizalam/mfaaizalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student | Backend Developer | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Software Engineering student passionate about Backend Development and Artificial Intelligence. I enjoy building real-world applications, solving challenging problems, and continuously learning modern technologies.
+
+- 💻 Passionate about Backend Development and AI
+- 🚀 Building real-world software projects
+- 🧠 Interested in AI Agents, LLMs, and Intelligent Systems
+- 🌱 Always learning new technologies
+- 🎯 Goal: Become a Software Engineer specializing in Backend Systems and Artificial Intelligence
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Python
+- JavaScript
+- C++
+- SQL
+
+### ⚙️ Backend Development
+- FastAPI
+- REST APIs
+- SQLAlchemy
+
+### 🗄️ Databases
+- PostgreSQL
+- SQLite
+
+### 🤖 AI & Machine Learning
+- Scikit-learn
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Qdrant Vector Database
+
+### 🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+
+### 🛠️ Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
